@@ -1,0 +1,22 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/images">
+        <file alias="splash-screen.png">images/splash-screen.png</file>
+        <file alias="app-icon.png">images/app-icon.png</file>
+    </qresource>
+    <qresource prefix="/themes">
+        <file alias="clean-medical.qss">clean-medical.qss</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="app-icon.svg">icons/app-icon.svg</file>
+        <file alias="reset.svg">icons/reset.svg</file>
+        <file alias="rotate-left.svg">icons/rotate-left.svg</file>
+        <file alias="rotate-right.svg">icons/rotate-right.svg</file>
+        <file alias="image.svg">icons/image.svg</file>
+        <file alias="info-circle.svg">icons/info-circle.svg</file>
+        <file alias="folder-open.svg">icons/folder-open.svg</file>
+        <file alias="eye.svg">icons/eye.svg</file>
+        <file alias="sun.svg">icons/sun.svg</file>
+        <file alias="contrast.svg">icons/contrast.svg</file>
+    </qresource>
+</RCC>

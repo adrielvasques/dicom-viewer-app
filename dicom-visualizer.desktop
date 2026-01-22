@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=DICOM Viewer
+Comment=Medical DICOM image viewer
+Exec=dicom-visualizer
+Categories=Graphics;MedicalSoftware;Viewer;
+Keywords=DICOM;medical;imaging;X-ray;CT;MRI;
+Terminal=false
+StartupWMClass=dicom-visualizer
